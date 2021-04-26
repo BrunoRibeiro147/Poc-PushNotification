@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "388252881968",
+    "project_id": "poc-pushnotification-dd5ad",
+    "storage_bucket": "poc-pushnotification-dd5ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388252881968:android:1107a91c4ac231f60909f5",
+        "android_client_info": {
+          "package_name": "com.clubpetro.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388252881968-il4kcbbdsf03bmh2et008i9nvpdovq71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clubpetro.push_notification",
+            "certificate_hash": "592b979bbd80fac63127eb5cc8696f7ad7651ab6"
+          }
+        },
+        {
+          "client_id": "388252881968-id1hgcev5or76kerlcudeb2ehf4vc8go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgGfWPy2G8lNfeUPDRWdccW5vj7x2Ydpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388252881968-id1hgcev5or76kerlcudeb2ehf4vc8go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
